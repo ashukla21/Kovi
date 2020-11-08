@@ -20,7 +20,7 @@ More specifically, the training data I fed into my feed-forward neural network t
 - Medicines/Vaccines
 - New Technology/Start-up Companies working to fight coronavirus
 
-I also added two more categories of data for Kovi to learn, those being greetings and goodbyes, so the user can have a conversation with Kovi which is more human-like. 
+I also added three more categories of data for Kovi to learn, those being greetings, thanks and goodbyes, so the user can have a conversation with Kovi which is more human-like. 
 
 ## How I built it
 
