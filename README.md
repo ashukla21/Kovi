@@ -46,6 +46,6 @@ This was my first deep-learning project so I am very proud of completing at leas
 
 I learned a lot about deep learning, neural nets, and how AI is trained for communication in general. This was a big step up for me in Machine Learning. 
 
-## What's next for Kovi: Deep Learning Chatbot (TigerHacks 2020 Submission)
+## What's next for Kovi: Deep Learning Chatbot for COVID-19
 
 I will definitely improve on this in the future by updating the model, providing a lot more types of questions/data related to COVID-19 for Kovi to be trained on, and potentially create an external UI, although I do like the intuitive ease of use that comes with the integration to the terminal. 
