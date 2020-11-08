@@ -3,9 +3,9 @@ Implementing NLP and Deep Learning I was able to train a chatbot, Kovi, by using
 
 ## Inspiration
 
-In light of this contest's theme of adventure, I wanted to tackle a very important issue. If an adventurer were to set out in our current situation, that being the coronavirus pandemic, they would almost definitely be infected. 
+A chatbot is often described as one of the most advanced and promising expressions of interaction between humans and machines. For this reason I wanted to create one in order to become affiliated with Natural Language Processing and Deep-Learning through neural networks.
 
-Due to the current pandemic, we are truly living in an unprecedented time. As the virus' spread continues, it is important for the adventurers of the world to stay educated and updated on the latest information regarding COVID-19, in order to continue on with said adventures. So, I designed a chatbot named Kovi who a user can talk to, and get latest information regarding COVID-19. 
+Due to the current pandemic, we are truly living in an unprecedented time. As the virus' spread continues, it is important for all citizens to stay educated and informed on the pandemic. So, I designed a chatbot named Kovi who a user can talk to, and get latest information regarding COVID-19. 
 
 (This bot is designed to function similarly to ones used on websites for companies such as Amazon or Microsoft, in which users can interact with the bot to ask questions they would normally ask to a customer service member, although through the power of AI and deep learning, the bot can answer these questions for the customer on it's own)
 
